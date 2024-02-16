@@ -1,0 +1,70 @@
+.first-page{
+    background-image:
+    url("https://st2.depositphotos.com/3508093/9261/i/450/depositphotos_92613686-stock-photo-hand-putting-lid-on-garbage.jpg");
+    height: 100vh;
+    background-size:cover;
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);
+    display: flex;
+    flex-direction: column;
+    opacity: 1.9;
+}
+.first-page-nav{
+    list-style: none;
+    margin-right: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.nav-item{
+    margin: 20px;
+    
+    cursor: pointer;
+}
+.first-link-2{
+    color: #eb5f02;
+    font-weight: 500;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.button-3{
+    border: none;
+    background-color: blueviolet;
+    padding: 15px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 7px;
+   
+    cursor: pointer;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+.first-link-1{
+    color: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+.first-page-header{
+    color:#f27718;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    align-self: center;
+}
+.first-page-para{
+    color:black;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 90px;
+    margin-top: -30px;
+    align-self: center;
+}
+.button-container{
+    align-self: center;
+}

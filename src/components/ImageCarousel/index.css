@@ -1,0 +1,19 @@
+.carousel-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+img{
+    width: 100vw;
+    height: 70vh;
+}
+.data-container{
+    background-color:blueviolet;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: -20px;
+}

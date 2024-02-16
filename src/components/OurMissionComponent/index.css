@@ -1,0 +1,44 @@
+.mission-com-container{
+    width:100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 80px;
+}
+.inner-container{
+    width: 60vw;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+}
+.Mission-com-heading{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:blueviolet;
+    font-style:italic;
+    margin-bottom: 70px;
+}
+
+.image{
+    width: 500px;
+    height: 400px;
+
+}
+.services{
+    list-style: none;
+}
+.icons{
+    font-size: 50px;
+    margin-right: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: darkslateblue;
+}

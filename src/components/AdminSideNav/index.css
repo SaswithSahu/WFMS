@@ -1,0 +1,29 @@
+
+
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+  }
+  
+  .sidebar-option {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .sidebar-option:hover {
+    background-color: #555;
+  }
+  
+  .sidebar-option.active {
+    background-color: #555;
+  }
+  
